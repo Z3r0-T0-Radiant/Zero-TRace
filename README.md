@@ -34,8 +34,8 @@ Setting up ZeroTrace is straightforward:
 
 1. **Clone the Repository**:
    ```
-   git clone <repository-url>
-   cd ZeroTrace
+   git clone https://github.com/Z3r0-T0-Radiant/Zero-TRace.git
+   cd Zero-TRace
    ```
    
 2. **Run the Installation Script**:
