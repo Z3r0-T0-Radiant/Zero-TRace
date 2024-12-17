@@ -39,11 +39,15 @@ Setting up ZeroTrace is straightforward:
    cd Zero-TRace
    ```
    
+   ![image](https://github.com/user-attachments/assets/00805344-c0d0-41a7-adac-afb41f2f2b05)
+   
 2. **Run the Installation Script**:
    ```
    sudo chmod +x zeroTRace_install_dependencies.sh
    ```
-   ![image](https://github.com/user-attachments/assets/9c18470d-99bc-462c-b1fb-366148eeddcc)
+   
+   ![image](https://github.com/user-attachments/assets/77b64789-6f23-4b8d-ae61-498de031336e)
+
 3. **Installation Process**:
    ```
    sudo ./zeroTRace_install_dependencies.sh
@@ -52,8 +56,8 @@ Setting up ZeroTrace is straightforward:
    - Installs required libraries: `pyfiglet`, `scapy`, and others.
    - Confirms successful setup.
      
-     ![image](https://github.com/user-attachments/assets/26c7085d-399b-4b98-96c2-96e6f473ea4d)
-     
+   ![image](https://github.com/user-attachments/assets/0b292114-816e-46e2-bb53-ab1f2c4bf85c)
+
 Now, ZeroTrace is ready to use!
 
 ## How to Run
@@ -62,7 +66,8 @@ Run the following code:
 ```
 sudo python3 zeroTRace.py
 ```
-![image](https://github.com/user-attachments/assets/623bc98c-76ee-4d80-a069-e0d497c202db)
+![image](https://github.com/user-attachments/assets/b756ac09-0a25-48cf-bf5b-3388dd84720f)
+
 
 ## How to Use
 
@@ -74,15 +79,15 @@ sudo python3 zeroTRace.py
 - Analyze over **65,536 ports** with multithreading.
 - Export results to a CSV file.
 
-![image](https://github.com/user-attachments/assets/edc40b70-0d8d-47bf-aa9b-a81e2e06214e)
+![image](https://github.com/user-attachments/assets/6d3e8a7c-8e9d-4b28-b4ae-931683c8fb22)
+
 #### 2. Network Packet Sniffing
 - Choose a network interface.
 - Set filters for protocols or IPs.
 - Monitor traffic in real-time.
 - Save captured packets in **.cap** and **log.txt** formats.
 
-![image](https://github.com/user-attachments/assets/10524522-438e-4746-8f0c-a3b4004fe1da)
-![image](https://github.com/user-attachments/assets/363a19fc-af7c-4fba-a169-da4c27f40b3c)
+![image](https://github.com/user-attachments/assets/3fe33b5a-7d35-48b9-9749-648e363f97dc)
 
 ## Real-Life Applications
 ZeroTrace is ideal for:
