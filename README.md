@@ -44,13 +44,20 @@ Setting up ZeroTrace is straightforward:
    ```
 3. **Installation Process**:
    ```
-   ./zeroTRace_install_dependencies.sh
+   sudo ./zeroTRace_install_dependencies.sh
    ```
    - Checks for Python and pip.
    - Installs required libraries: `pyfiglet`, `scapy`, and others.
    - Confirms successful setup.
 
 Now, ZeroTrace is ready to use!
+
+## How to Run
+
+Run the following code:
+```
+sudo python3 zeroTRace.py
+```
 
 
 ## How to Use
